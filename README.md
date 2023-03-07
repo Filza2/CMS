@@ -17,3 +17,9 @@ __CMS__ Has many features including show Customers in Lists ( in The CMD , in a 
 <p align="center"><img src="https://github.com/Filza2/CMS/blob/main/imgs/CMS_DBView_INTRO.PNG" alt="CMS"></p>
 
 <p align="center"><img src="https://github.com/Filza2/CMS/blob/main/imgs/DataBase%20Report.png" alt="CMS"></p>
+
+Installation
+----
+```
+pip install -r requirements.txt
+```
