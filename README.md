@@ -1,4 +1,3 @@
-# CMS
 Customers management system
 __CMS__
 ==
